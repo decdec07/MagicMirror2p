@@ -1,0 +1,8 @@
+{
+    "name": "MMM-PiStatus",
+    "version": "1.0.0",
+    "description": "Displays Raspberry Pi system status",
+    "main": "MMM-PiStatus.js",
+    "dependencies": {}
+  }
+  
